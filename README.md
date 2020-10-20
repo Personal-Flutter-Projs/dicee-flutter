@@ -2,7 +2,7 @@
 
 # Dicee 🎲
 
-## Our Goal
+## Learning Goal
 
 Inspired by Appbrewey's dicee game, it was my first go on understanding how to make apps with functionality using setState() inside Stateful Flutter widgets.
 
